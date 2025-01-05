@@ -48,7 +48,6 @@ This project leverages deep learning models and geospatial data to identify opti
 - **Mentors**:
   - Mr. Phila Sibandze
   - Dr. Gbenga Abayomi Afuye
-  - Dr. Kgabo Humphery Thamaga
 
 ---
 
